@@ -5,7 +5,7 @@ Este Repositorio esta destinado al módulo 3 de la materia 'Técnicas y herramie
 
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-[Descarga Guía para Simul8 en PDF](https://github.com/jarasantiago/Modulo_3/blob/main/Gu%C3%ADa%20Simul8/Gu%C3%ADa%20para%20Simul8.pdf)
+[Descarga Guía para Simul8 en PDF](https://github.com/romeroofacu4-cyber/Modulo-3/blob/main/Gu%C3%ADa%20para%20Simul8.pdf)
 
 [Descarga el archivo zip. con todo el proyecto](https://github.com/jarasantiago/Modulo_3/blob/main/Gu%C3%ADa%20Simul8/Gu%C3%ADa%20para%20Simul8.zip)
 
